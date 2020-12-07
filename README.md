@@ -1,4 +1,4 @@
-# appchallenge
+# MiCardApp
 
 A new Flutter application.
 
